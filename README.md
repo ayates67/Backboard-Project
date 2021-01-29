@@ -15,6 +15,6 @@ To make something that other people can have fun with.
 To write our own code.
 To learn how to design something and use code at the same time.
 
-<img src="download.png">
+<img src="backboard.jpg">
 This is a picture of what the backboard will look like
 

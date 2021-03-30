@@ -101,4 +101,8 @@ oldDistance = distance;
 I think that we are on track to finish the project as long as we keep working and keep taking steps in the right direction.
 One major obstacle is that I am not very good at code so that is going a little slow. Other than that the project is going well and should be done soon.
 
+3/30 Eng notebook
+The project is going slowly but surely. We have got all of our parts and should hopefully finish on the first day back from spring break. THe only obstacles are zoom and now I just have to figuire out how to code/attach the sensor. Aidan-When I retern to F2F school, I will code the counter and then start testing the hoop in the lab. 
+
+
 

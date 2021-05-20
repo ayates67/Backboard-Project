@@ -104,5 +104,11 @@ One major obstacle is that I am not very good at code so that is going a little 
 3/30 Eng notebook
 The project is going slowly but surely. We have got all of our parts and should hopefully finish on the first day back from spring break. THe only obstacles are zoom and now I just have to figuire out how to code/attach the sensor. Aidan-When I retern to F2F school, I will code the counter and then start testing the hoop in the lab. 
 
+#Tinkercad diagram
+
+<img src="tink.PNG">
+
+This is a picture of my wiring. We are almost done. We have the code finished and wiring done. Now we just need to attach the parts and start testing it.
+
 
 

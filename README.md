@@ -106,7 +106,7 @@ The project is going slowly but surely. We have got all of our parts and should 
 
 #Tinkercad diagram
 
-<img src="tink.PNG">
+<img src="bn.PNG">
 
 This is a picture of my wiring. We are almost done. We have the code finished and wiring done. Now we just need to attach the parts and start testing it.
 

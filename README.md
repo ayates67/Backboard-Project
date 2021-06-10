@@ -18,6 +18,16 @@ To learn how to design something and use code at the same time.
 <img src="backboard.jpg">
 This is a picture of what the backboard will look like
 
+# Bill of Materials
+* wires
+* 7 segment display
+* ultrasonic sensor
+* arduino uno
+* basketball mini backboard
+* sensor holder
+* screws
+
+
 # psuedo code
 
 "Start the running code
@@ -42,7 +52,14 @@ If button is pressed counter + display screen = 0"
 # Goal
 
 Last week our goal was to make an LED turn on when the ultrasonic sensor read a distance less than 50mm. We achieved that goal. Code for this:
-"// ---------------------------------------------------------------- //
+# Tinkercad diagram
+
+<img src="bn.PNG">
+
+This is a picture of my wiring. We are almost done. We have the code finished and wiring done. Now we just need to attach the parts and start testing it.
+# Code
+```c
+// ---------------------------------------------------------------- //
 // Arduino Ultrasoninc Sensor HC-SR04
 // Re-writed by Arbi Abdul Jabbaar
 // Using Arduino IDE 1.8.7
@@ -97,18 +114,17 @@ void loop() {
   }
 oldDistance = distance;
   
-}"
+}
+```
+
+
 I think that we are on track to finish the project as long as we keep working and keep taking steps in the right direction.
 One major obstacle is that I am not very good at code so that is going a little slow. Other than that the project is going well and should be done soon.
 
 3/30 Eng notebook
 The project is going slowly but surely. We have got all of our parts and should hopefully finish on the first day back from spring break. THe only obstacles are zoom and now I just have to figuire out how to code/attach the sensor. Aidan-When I retern to F2F school, I will code the counter and then start testing the hoop in the lab. 
 
-#Tinkercad diagram
 
-<img src="bn.PNG">
-
-This is a picture of my wiring. We are almost done. We have the code finished and wiring done. Now we just need to attach the parts and start testing it.
 
 <img src="https://github.com/ayates67/Backboard-Project/blob/main/cropped.gif?raw=true">
 

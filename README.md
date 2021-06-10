@@ -123,7 +123,6 @@ oldDistance = distance;
 
 <img src="https://github.com/ayates67/Backboard-Project/blob/main/cropped.gif?raw=true">
 # Milestones
-
 2/28
 I think that we are on track to finish the project as long as we keep working and keep taking steps in the right direction.
 One major obstacle is that I am not very good at code so that is going a little slow. Other than that the project is going well and should be done soon.

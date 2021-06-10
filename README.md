@@ -49,14 +49,11 @@ If button is pressed counter + display screen = 0"
 
 <img src="thepng.PNG">
 
-# Goal
-
-Last week our goal was to make an LED turn on when the ultrasonic sensor read a distance less than 50mm. We achieved that goal. Code for this:
 # Tinkercad diagram
 
 <img src="bn.PNG">
 
-This is a picture of my wiring. We are almost done. We have the code finished and wiring done. Now we just need to attach the parts and start testing it.
+
 # Code
 ```c
 // ---------------------------------------------------------------- //
@@ -118,13 +115,21 @@ oldDistance = distance;
 ```
 
 
-I think that we are on track to finish the project as long as we keep working and keep taking steps in the right direction.
-One major obstacle is that I am not very good at code so that is going a little slow. Other than that the project is going well and should be done soon.
 
-3/30 Eng notebook
-The project is going slowly but surely. We have got all of our parts and should hopefully finish on the first day back from spring break. THe only obstacles are zoom and now I just have to figuire out how to code/attach the sensor. Aidan-When I retern to F2F school, I will code the counter and then start testing the hoop in the lab. 
+
+ 
 
 
 
 <img src="https://github.com/ayates67/Backboard-Project/blob/main/cropped.gif?raw=true">
+# Milestones
 
+2/28
+I think that we are on track to finish the project as long as we keep working and keep taking steps in the right direction.
+One major obstacle is that I am not very good at code so that is going a little slow. Other than that the project is going well and should be done soon.
+3/12
+Last week our goal was to make an LED turn on when the ultrasonic sensor read a distance less than 50mm. We achieved that goal.
+3/30 Eng notebook
+The project is going slowly but surely. We have got all of our parts and should hopefully finish on the first day back from spring break. THe only obstacles are zoom and now I just have to figuire out how to code/attach the sensor. Aidan-When I retern to F2F school, I will code the counter and then start testing the hoop in the lab.
+5/10
+There is a picture of my wiring above. We are almost done. We have the code finished and wiring done. Now we just need to attach the parts and start testing it.
